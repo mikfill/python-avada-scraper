@@ -1,2 +1,2 @@
-venv/
+.venv/
 scrapy_laptops.log
